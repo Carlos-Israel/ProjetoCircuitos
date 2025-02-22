@@ -1,1 +1,1 @@
-olá, eu estou aprendendo a mexer no github. Segue abaixo o código do servidor e cliente:
+olá, esse repositório foi criado como parte de um trabalho da disciplina de circuitos elétricos, consiste no versionamento de código no contexto de cliente-servidor onde o objetivo era fazer a conexão via sockets entre um microcotrolador (servidor) e um dispositivo previamente configurado (cliente). Foi utilizado a linguagem python devido a sua sintaxe simples e conhecimentos prévios da equipe. 
